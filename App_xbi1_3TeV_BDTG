@@ -1,0 +1,64 @@
+
+Processing TMVAClassificationApplication60GeV.C...
+
+==> Start TMVAClassificationApplication60GeV
+                         : Booking "BDTG method" of type "BDT" from dataset_xbi/weights/TMVAClassification_BDTG.weights.xml.
+<HEADER> DataSetInfo              : [Default] : Added class "Signal"
+<HEADER> DataSetInfo              : [Default] : Added class "Background"
+                         : Booked classifier "BDTG" of type: "BDT"
+--- TMVAClassificationApp    : Using input file: 
+--- Select signal sample
+================================================================
+----  total                   = 56372
+----  After_CUT               = 49275
+---- xbi efficiency     = 0.874104
+================================================================
+================================================================
+----  total                   = 83335
+----  After_CUT               = 10017
+---- ep2bbjvbkg1 efficiency     = 0.120202
+---- ep2bbjvbkg1 final cross-section [pb]     = 0.00334401
+================================================================
+================================================================
+----  total                   = 425
+----  After_CUT               = 71
+---- ep2ccjvbkg2 efficiency     = 0.167059
+---- ep2ccjvbkg2 final cross-section [pb]     = 0.0104679
+================================================================
+================================================================
+----  total                   = 236269
+----  After_CUT               = 82584
+---- ep2vjz2bbbkg3 efficiency     = 0.349534
+---- ep2vjz2bbbkg3 final cross-section [pb]     = 0.0158843
+================================================================
+================================================================
+----  total                   = 820
+----  After_CUT               = 258
+---- ep2vjz2ccbkg4 efficiency     = 0.314634
+---- ep2vjz2ccbkg4 final cross-section [pb]     = 0.0147666
+================================================================
+================================================================
+----  total                   = 195
+----  After_CUT               = 38
+---- ep2vjz2jjbkg5 efficiency     = 0.194872
+---- ep2vjz2jjbkg5 final cross-section [pb]     = 0.0511363
+================================================================
+================================================================
+----  total                   = 96194
+----  After_CUT               = 23255
+---- ep2jt2w2jjbkg6 efficiency     = 0.241751
+---- ep2jt2w2jjbkg6 final cross-section [pb]     = 0.0540196
+================================================================
+================================================================
+----  total                   = 118073
+----  After_CUT               = 102509
+---- ep2vjhSMbkg7 efficiency     = 0.868183
+---- ep2vjhSMbkg7 final cross-section [pb]     = 0.0419741
+================================================================
+*****************************************************************
+---- Final (all) bkg xsec after TMVA Application [pb] = 0.191593
+
+*****************************************************************
+--- Created root file: "APPTMVA_xbi_60GeV.root" containing the MVA output histograms
+==> TMVAClassificationApplication is done!
+

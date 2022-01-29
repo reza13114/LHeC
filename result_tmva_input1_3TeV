@@ -1,0 +1,170 @@
+
+Processing tmva_input60GeV.C...
+
+sample 0: 
+Warning in <TClass::TClass>: no dictionary for class LHEFEvent is available
+Warning in <TClass::TClass>: no dictionary for class Event is available
+Warning in <TClass::TClass>: no dictionary for class GenParticle is available
+Warning in <TClass::TClass>: no dictionary for class SortableObject is available
+Warning in <TClass::TClass>: no dictionary for class Jet is available
+Warning in <TClass::TClass>: no dictionary for class Electron is available
+Warning in <TClass::TClass>: no dictionary for class Photon is available
+Warning in <TClass::TClass>: no dictionary for class Muon is available
+Warning in <TClass::TClass>: no dictionary for class MissingET is available
+Warning in <TClass::TClass>: no dictionary for class ScalarHT is available
+
+For xtar60GeV:
+
+N_total = 585566
+N_accepted_pre = 55678
+N_accepted = 55678
+efficiency_pre = 0.0950841
+efficiency = 0.0950841
+
+
+sample 1: 
+
+For xbr60GeV:
+
+N_total = 585872
+N_accepted_pre = 55532
+N_accepted = 55532
+efficiency_pre = 0.0947852
+efficiency = 0.0947852
+
+
+sample 2: 
+
+For xtr60GeV:
+
+N_total = 585090
+N_accepted_pre = 55919
+N_accepted = 55919
+efficiency_pre = 0.0955733
+efficiency = 0.0955733
+
+
+sample 3: 
+
+For xtai60GeV:
+
+N_total = 585315
+N_accepted_pre = 56420
+N_accepted = 56420
+efficiency_pre = 0.0963925
+efficiency = 0.0963925
+
+
+sample 4: 
+
+For xbi60GeV:
+
+N_total = 585982
+N_accepted_pre = 56372
+N_accepted = 56372
+efficiency_pre = 0.0962009
+efficiency = 0.0962009
+
+
+sample 5: 
+
+For xti60GeV:
+
+N_total = 584250
+N_accepted_pre = 55696
+N_accepted = 55696
+efficiency_pre = 0.0953291
+efficiency = 0.0953291
+
+
+sample 6: 
+
+For ep2bbjvbkg1:
+
+N_total = 1090329
+N_accepted_pre = 83335
+N_accepted = 83335
+efficiency_pre = 0.0764311
+efficiency = 0.0764311
+sigma_pre = 2.12631 fb
+sigma = 2.12631 fb
+
+sample 7: 
+
+For ep2ccjvbkg2:
+
+N_total = 1045855
+N_accepted_pre = 425
+N_accepted = 425
+efficiency_pre = 0.000406366
+efficiency = 0.000406366
+sigma_pre = 0.0254629 fb
+sigma = 0.0254629 fb
+
+sample 8: 
+
+For ep2vjz2bbbkg3:
+
+N_total = 1564635
+N_accepted_pre = 236269
+N_accepted = 236269
+efficiency_pre = 0.151006
+efficiency = 0.151006
+sigma_pre = 6.86234 fb
+sigma = 6.86234 fb
+
+sample 9: 
+
+For ep2vjz2ccbkg4:
+
+N_total = 1037779
+N_accepted_pre = 820
+N_accepted = 820
+efficiency_pre = 0.000790149
+efficiency = 0.000790149
+sigma_pre = 0.0370838 fb
+sigma = 0.0370838 fb
+
+sample 10: 
+
+For ep2vjz2jjbkg5:
+
+N_total = 1173316
+N_accepted_pre = 195
+N_accepted = 195
+efficiency_pre = 0.000166196
+efficiency = 0.000166196
+sigma_pre = 0.0436114 fb
+sigma = 0.0436114 fb
+
+sample 11: 
+
+For ep2jt2w2jjbkg6:
+
+N_total = 1118809
+N_accepted_pre = 96194
+N_accepted = 96194
+efficiency_pre = 0.0859789
+efficiency = 0.0859789
+sigma_pre = 19.2121 fb
+sigma = 19.2121 fb
+
+sample 12: 
+
+For ep2vjhSMbkg7:
+
+N_total = 1365598
+N_accepted_pre = 118073
+N_accepted = 118073
+efficiency_pre = 0.0864625
+efficiency = 0.0864625
+sigma_pre = 4.1802 fb
+sigma = 4.1802 fb
+
+=================================
+============= Finish ============
+=================================
+Error in <RootX11IOErrorHandler>: fatal X11 error (connection to server lost?!)
+
+**** Save data and exit application ****
+
