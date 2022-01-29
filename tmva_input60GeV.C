@@ -1,3 +1,5 @@
+// This code is for the data analysis at C.M. energy of 1.3 TeV (LHeC benchmark)
+
 #include <stdio.h>
 #include "iostream"
 #include "TH1F.h"
